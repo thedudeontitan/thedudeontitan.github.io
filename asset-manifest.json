@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33218aef.css",
+    "main.js": "/static/js/main.a4f404a0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/healthhive.png": "/static/media/healthhive.a49cb09d823150c6e6d3.png",
+    "static/media/forkscanner.png": "/static/media/forkscanner.77ed65d962d020f908a2.png",
+    "static/media/safeGaurd.png": "/static/media/safeGaurd.056e17c2aec97a021746.png",
+    "static/media/medico.png": "/static/media/medico.d57c7029f65797d1a171.png",
+    "static/media/Pythonguy.svg": "/static/media/Pythonguy.1dff02395344f437b20ff3572d4ffb3f.svg",
+    "index.html": "/index.html",
+    "main.33218aef.css.map": "/static/css/main.33218aef.css.map",
+    "main.a4f404a0.js.map": "/static/js/main.a4f404a0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33218aef.css",
+    "static/js/main.a4f404a0.js"
+  ]
+}
